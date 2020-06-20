@@ -1,0 +1,15 @@
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\bin\Debug\ImageProcessAlgorithm.exe.config
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\bin\Debug\ImageProcessAlgorithm.exe
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\bin\Debug\ImageProcessAlgorithm.pdb
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\obj\Debug\ImageProcessAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\obj\Debug\ImageProcessAlgorithm.Form1.resources
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\obj\Debug\ImageProcessAlgorithm.Properties.Resources.resources
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\obj\Debug\ImageProcessAlgorithm.csproj.GenerateResource.Cache
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\obj\Debug\ImageProcessAlgorithm.exe
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\obj\Debug\ImageProcessAlgorithm.pdb
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\bin\Debug\AForge.dll
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\bin\Debug\AForge.Video.dll
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\bin\Debug\AForge.xml
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\bin\Debug\AForge.Video.xml
+C:\Users\Salim\Desktop\PaintApp\ImageProcessAlgorithm\ImageProcessAlgorithm\bin\Debug\AForge.Video.DirectShow.xml
